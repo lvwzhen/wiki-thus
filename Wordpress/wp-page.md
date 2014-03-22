@@ -23,3 +23,7 @@ Template Name: about
 5.使用页面模版，进入wordpress后台，创建新页面，或者编辑 about 页面（如果已经创建了的 话），在右边，点击页面模板的下拉菜单，在下拉列表中找到“about”，选择它并点击保存。
 
 至此，通过三篇文章大概地介绍了wordpress的分类模版、文章模版、页面模版的使用。因为自己也在学习中，所以如果有什么写的不对的，也请看官们笔下留情。
+
+`tag`: wordpress , about , page
+
+`author`：chen
